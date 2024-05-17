@@ -7,7 +7,7 @@ Welcome to my GitHub playground! 👋 I'm Jiri Holas, a passionate full-stack de
 - 👯 I’m looking to collaborate on open-source projects or interesting ideas.
 - 💬 Ask me about anything! I'm happy to help.
 - 🔧 **Technologies & Tools:**
-- 
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -26,7 +26,7 @@ Welcome to my GitHub playground! 👋 I'm Jiri Holas, a passionate full-stack de
 ![Jiri Holas GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeHolas&show_icons=true&theme=radical)
 
 ## 📊 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-mai&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHolas&layout=compact&theme=radical)
 
 ## 🌟 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jiri-holas-b5b8a5270/)
