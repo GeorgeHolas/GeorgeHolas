@@ -23,7 +23,7 @@ Welcome to my GitHub playground! 👋 I'm Jiri Holas, a passionate full-stack de
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-!Jiri Holas GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeHolas&show_icons=true&theme=radical)
+![Jiri Holas GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeHolas&show_icons=true&theme=radical)
 
 ## 📊 My Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-mai&layout=compact&theme=radical)
