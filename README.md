@@ -15,12 +15,8 @@ Welcome to my GitHub playground! 👋 I'm Jiri Holas, a passionate full-stack de
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-mai&layout=compact&theme=radical)
 
 ## 🌟 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/phuc-mai/)
-- [YouTube](https://www.youtube.com/channel/UC2sXGfDoAekkKx3O-lbfm3g)
+- [LinkedIn](https://www.linkedin.com/in/jiri-holas-b5b8a5270/)
 
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=phuc-mai)
-
-Thanks for stopping by! 😊✨
+Thanks for stopping by! 
 
 Happy Coding! 🚀
