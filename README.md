@@ -1,6 +1,6 @@
 # Jiri Holas Profile 🚀
 
-Welcome to my GitHub playground! 👋 I'm Jiri Holas, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
+Welcome to my GitHub playground! 👋 I'm Jiri Holas a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
 
 ## 🚀 Quick Overview
 - 🔭 I work as a Full Stack Developer
